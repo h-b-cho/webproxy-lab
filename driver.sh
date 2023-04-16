@@ -30,6 +30,7 @@ BASIC_LIST="home.html
             csapp.c
             tiny.c
             godzilla.jpg
+            moodo.mp4
             tiny"
 
 # List of text files for the cache test
