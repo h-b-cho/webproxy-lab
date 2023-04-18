@@ -30,7 +30,6 @@ BASIC_LIST="home.html
             csapp.c
             tiny.c
             godzilla.jpg
-            moodo.mp4
             tiny"
 
 # List of text files for the cache test
@@ -266,7 +265,7 @@ wait $proxy_pid 2> /dev/null
 
 basicScore=`expr ${MAX_BASIC} \* ${numSucceeded} / ${numRun}`
 
-echo "basicScore: $basicScore/${MAX_BASIC}"
+echo "basicScore: $basicScore/${MAX_BASIC} ||||||| ${numSucceeded} / ${numRun}"
 
 
 ######

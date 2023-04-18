@@ -1,5 +1,6 @@
 {
   "files.associations": {
-    "setjmp.h": "c"
+    "setjmp.h": "c",
+    "sockaddr.h": "c"
   }
 }
